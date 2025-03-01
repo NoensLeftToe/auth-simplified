@@ -3,9 +3,9 @@ import FloatingShape from "./components/FloatingShape"
 import SignUpPage from "./Pages/SignUpPage";
 import LoginPage from "./Pages/LoginPage";
 import EmailVerificationPage from "./Pages/EmailVerificationPage";
-import DashboardPage from "./pages/DashboardPage";
-import ForgotPasswordPage from "./pages/ForgotPasswordPage";
-import ResetPasswordPage from "./pages/ResetPasswordPage";
+import DashboardPage from "./Pages/DashboardPage";
+import ForgotPasswordPage from "./Pages/ForgotPasswordPage";
+import ResetPasswordPage from "./Pages/ResetPasswordPage";
 
 import LoadingSpinner from "./components/LoadingSpinner";
 
